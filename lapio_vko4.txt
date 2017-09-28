@@ -2,6 +2,8 @@
 2manu koi
 3säätö sale
 4terveiset mun koneelta
+3terveiset githubista
+4ei muut
 lalal
 erillaista
 office hours
